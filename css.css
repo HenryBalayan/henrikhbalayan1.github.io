@@ -1,0 +1,104 @@
+body{
+box-sizing: border-box;
+
+}
+#header{
+    height:120px;
+    background-image: url(bgimg4.jpg);
+    text-align: center;
+     color:white;
+     font-family: fantasy;
+     
+  
+
+     background-position: 1000px 1000px;
+
+}
+.headerp{
+    margin-left: 400px;
+    margin-right: 400px;
+   color:white;
+   border-radius:25%;
+   opacity:20px;
+}
+.section{
+     height:1150px;
+
+     width: 25%;
+   float: left;
+    padding-left: 25px;
+    padding-right: 15px;;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    background-image: url(bgimg.jpg);
+    color: wheat;
+    
+
+}
+
+.myfhoto img{
+    margin-top:10px;
+    border: 2px solid none;
+    border-radius: 100%;
+    width:90%;
+    height: 240px;
+}
+.linksp{
+    height: 25px;
+
+  
+}
+.imgclass{
+  float:left;
+  padding:5px;
+
+}
+.aclass{
+    float: left;
+    padding-left:10px;
+    padding-top:10px;
+}
+.aside{
+    height:1150px;
+    margin-left: 90px;
+   font-size: 15px;;
+   float: left;
+    width:65%;
+
+
+
+}
+.aside p{
+    font-style: italic;
+}
+
+.bord{
+    border: 5px solid darkblue;
+    width:12%;
+    height:75px;
+    border-radius: 100%;
+   text-align: center;
+   padding-top: 10px;
+   background-color: darkorchid;
+   float: left;
+  margin-left: 35px;
+   margin-top: 30px;
+   margin-bottom: 40px;
+    
+}
+p span{
+    color: lightseagreen;
+}
+.hobies{
+    padding-left:10px;
+    margin-left: 10px;
+}
+
+.footer{
+    height:55px;
+    background-color:black;
+    clear: both;
+    color:white;
+    text-align: center;
+    
+} 
